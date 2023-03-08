@@ -79,7 +79,7 @@ html{
 
 }
 .inicio.contenido-seccion .info .redes{
-    margin: 20px 0;
+    margin: 40px 0;
 }
 .inicio.contenido-seccion .info .redes a{
     display: inline-block;
@@ -87,7 +87,7 @@ html{
     background-color: black;
     border: 1px solid #940253;
     border-radius: 50%;
-    width: 40px;
+    width: 10px;
     height: 40px;
     line-height: 40px;
     margin: 0 5px;
@@ -149,7 +149,7 @@ html{
 .sobremi.contenido-seccion .fila .col{
     width: 30%;
 }
-,.sobremi.contenido-seccion .fila .col i{
+.sobremi.contenido-seccion .fila .col i{
     color: #940253;
     display: inline-block;
     width: 40px;
